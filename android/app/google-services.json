@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643128358845",
+    "project_id": "chatapp-faf51",
+    "storage_bucket": "chatapp-faf51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643128358845:android:24d0b9b885976527fac4d4",
+        "android_client_info": {
+          "package_name": "com.vaibhav.chatapp.chat_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643128358845-v9qe7mbo0cfnp8gn4jlbfbmmga5unmj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WkwK_2esyeJwnRuDr03dlM0buYpqz_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643128358845-v9qe7mbo0cfnp8gn4jlbfbmmga5unmj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
